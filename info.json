@@ -1,0 +1,11 @@
+{
+    "name": "HeroShiba",
+    "type": "BEP20",
+    "symbol": "heSHIBA",
+    "decimals": 9,
+    "website": "https://heroshiba.finance/",
+    "description": "heSHIBA is a next generation reflective deflationary protocol built on Binance Smart Chain. heSHIBA is capable of generating instant returns without gas, this means that holders can generate returns simply by holding the tokens in their wallet, with no further action required.",
+    "explorer": "https://bscscan.com/token/0x58ce4b0116be1641b0e726858c23d5942334d69f",
+    "status": "active",
+    "id": "0x58ce4b0116be1641b0e726858c23d5942334d69f"
+}
